@@ -1,10 +1,12 @@
 from tkinter import Tk,scrolledtext,Menu,filedialog,END,messagebox
+
 import tkinter.scrolledtext as ScrolledText 
 import mysql.connector
 Editor_title="Untitled"
 row_size=0
 win=Tk(className=" Untitled")
 
+#use you own database details 
 mydb = mysql.connector.connect(host="Localhost",user="root",passwd="rishabh@123")
 cursor = mydb.cursor()
 cursor.execute("use MY_TEXT_EDITOR")
