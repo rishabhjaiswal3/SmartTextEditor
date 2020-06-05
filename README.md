@@ -18,4 +18,4 @@ MySQL database.
 
 <img src="https://user-images.githubusercontent.com/46244176/83827387-e0fe8480-a6fb-11ea-8317-f577bbed71f6.png">
 
-<img src="shttps://user-images.githubusercontent.com/46244176/83827392-e3f97500-a6fb-11ea-8a38-beaf81b0a268.png" alt="Smiley face">
+<img src="https://user-images.githubusercontent.com/46244176/83827392-e3f97500-a6fb-11ea-8a38-beaf81b0a268.png">
