@@ -3,14 +3,14 @@ This is a smart Text & Intelligent Text Editor. When you will click on save butt
 MySQL database.
 
 
-#Dependency
+<h2>Dependency</h2>
 <ol>
   <li><a href="https://docs.python.org/3/">Python3</a></li>
   <li><a href="https://www.mysql.com/">Mysql Database</a></li>
   <li><a href="https://dev.mysql.com/downloads/connector/python/">Mysql & python Connector</a></li>
 </ol>
 
-#Database SetUp
+<h2>Database SetUp</h2>
 <ul>
   <li>Make sure that Change the Password in text_editor.py according to you mysql database</li>
   <li>Just Create a database named "MY_TEXT_EDITOR"</li>
