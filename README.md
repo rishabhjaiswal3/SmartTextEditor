@@ -15,5 +15,5 @@ MySQL database.
   <li>Make sure that Change the Password in text_editor.py according to you mysql database</li>
   <li>Just Create a database named "MY_TEXT_EDITOR"</li>
 </ul>
-
-
+<a href="">Untitlted file</a>
+<a href="">fun Saved file</a>
