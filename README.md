@@ -5,9 +5,9 @@ MySQL database.
 
 #Dependency
 <ol>
-  <li>Python3</li>
-  <li>Mysql Database</li>
-  <li>Mysql & python Connector</li>
+  <li><a href="https://docs.python.org/3/">Python3</a></li>
+  <li><a href="https://www.mysql.com/">Mysql Database</a></li>
+  <li><a href="https://dev.mysql.com/downloads/connector/python/">Mysql & python Connector</a></li>
 </ol>
 
 #Database SetUp
